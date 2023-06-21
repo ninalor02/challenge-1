@@ -2,26 +2,49 @@ HTML, CSS, and Git
 
 ## Challenge 1
 
-This challenge I was unsure what  to name my repo. I named it as basic it can be.
+The purpose of this challenge as a developer is to know the basics of HTML and CSS.
 
-This is the link to my Github profile website. 
+As a developer, it is our job to take something like this challenge and keep everything as designed. But to change the structure inside html and css to make sure it is following the basic semnatic structure.
 
-https://github.com/ninalor02 
+This is where the files are linked, from html to css.
 
-This is the link to my Live page (Github repository) for the challenge. 
+![Alt text](files.jpg)
 
-https://ninalor02.github.io/challenge-1/ 
+This is the main page of the webpage.
 
+![Alt text](main.jpg)
 
+![Alt text](main2.jpg)
 
-# Websites
+As you are in the main page, if you are to click on the "Search Engine Optimization" 
+![Alt text](search.jpg)
 
-These website was used for references for html.
+It then will lead you to this following part of the page.
 
-* https://www.w3schools.com/
-* https://www.w3schools.com/html/html_elements.asp
-* https://www.w3schools.com/html/html_attributes.asp
-* https://www.w3schools.com/html/html5_semantic_elements.asp
+![Alt text](search2.jpg)
 
-I am enoying learning the basic of HTML and CSS!
+If you are to click on the "Online Reputation Management" 
+
+![Alt text](online.jpg)
+
+It then will lead you to this following part of the page.
+
+![Alt text](online2.jpg)
+
+If you are to click on the "Social Media Marketing" 
+
+![Alt text](social.jpg)
+
+It then will lead you to this following part of the page.
+
+![Alt text](online2-1.jpg)
+
+On the right side of the web page, there is a column "Lead Generation" have 2 pointers about Brand Awareness and Cost Management.
+
+![Alt text](article.jpg)
+
+* A few things were changed in HTML, as adding a few classes to the elements. Changing some of the elements to more of a generic elements. Making sure in the html and css were linked properly.
+
+* Minor change in the CSS: some of the class (.class) that are under one container that have the same padding,margins, etc were moved into 1 place.
+
 
